@@ -1,1 +1,2 @@
 # ElectroPi
+ElectroPi Projects
